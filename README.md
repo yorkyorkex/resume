@@ -2,9 +2,13 @@
 
 ## Technical Skills
 **Frontend Development:** React, Node.js, Next.js, HTML5, CSS3, SASS, Bootstrap, TypeScript, JavaScript, Tailwind CSS
+
 **Backend Development:** Firebase, Google Cloud, Python, C#, C++, RESTful APIs, SQL
+
 **DevOps & Cloud Infrastructure:** Google Cloud Platform (GCP), CI/CD pipelines, Firebase, Unity
+
 **Version Control:** Git, GitHub
+
 **Languages:** English, Mandarin
 
 ## Education							       		
