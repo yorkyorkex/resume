@@ -4,7 +4,8 @@
 
 ## Education							       		
 **Queensland University of Technology (_July 2023 - June 2025_)**
-- Master of Information Technology 
+- Master of Information Technology
+  
 **China University of Science and Technology (_Aug 2019 - June 2021_)**      		
 - Bachelor of Information Management
 
