@@ -1,15 +1,15 @@
 # Software Developer | IT Support
 
 ## Technical Skills
-**Frontend Development:** React, Node.js, Next.js, HTML5, CSS3, SASS, Bootstrap, TypeScript, JavaScript, Tailwind CSS
+- **Frontend Development:** React, Node.js, Next.js, HTML5, CSS3, SASS, Bootstrap, TypeScript, JavaScript, Tailwind CSS
 
-**Backend Development:** Firebase, Google Cloud, Python, C#, C++, RESTful APIs, SQL
+- **Backend Development:** Firebase, Google Cloud, Python, C#, C++, RESTful APIs, SQL
 
-**DevOps & Cloud Infrastructure:** Google Cloud Platform (GCP), CI/CD pipelines, Firebase, Unity
+- **DevOps & Cloud Infrastructure:** Google Cloud Platform (GCP), CI/CD pipelines, Firebase, Unity
 
-**Version Control:** Git, GitHub
+- **Version Control:** Git, GitHub
 
-**Languages:** English, Mandarin
+- **Languages:** English, Mandarin
 
 ## Education							       		
 **Queensland University of Technology (_July 2023 - June 2025_)**
